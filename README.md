@@ -1,5 +1,5 @@
 ## Auto Click Bot
-This tool provides the opening of a list of URLs contained on a text file.
+This tool provides the opening of a list of URLs contained on a text file automatically.
 To implement this feature we use Selenium.Webdriver package available in nuget.org.
 
 ### File **Links.txt**
