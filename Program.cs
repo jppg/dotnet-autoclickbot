@@ -35,7 +35,7 @@ namespace AutoClickBot
 
         public void Login()
         {
-
+            //TODO: adapt this block to the specific context
         }
 
         public void OpenLinks()
